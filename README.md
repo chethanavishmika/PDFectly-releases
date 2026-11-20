@@ -18,6 +18,12 @@ Highlights · Download & install · Quick start · Read · Edit · Organize page
 
 ---
 
+## Interface
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/aed8cd58-0842-48a8-8dcb-4a3f4ed95fc1" />
+
+---
+
 ## Highlights
 
 - **Edit real text.** Click any text on the page and edit it in place — font, size and colour included. What you type stays editable and searchable.
