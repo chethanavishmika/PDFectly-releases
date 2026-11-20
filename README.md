@@ -1,4 +1,5 @@
-# PDFectly
+# PDFectly <img width="1024" height="1024" alt="app-icon" src="https://github.com/user-attachments/assets/6e50e3a5-52f1-414e-a1d5-89213cd83070" />
+
 
 **DO PDFs. PERFECTLY. — a fast, free PDF reader and editor for Windows.**
 
