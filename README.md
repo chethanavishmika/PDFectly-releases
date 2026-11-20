@@ -1,5 +1,6 @@
-# PDFectly
+<img src="pdfectly_logo_mark.png" width="120" alt="PDFectly logo">
 
+# PDFectly
 
 **DO PDFs. PERFECTLY. — a fast, free PDF reader and editor for Windows.**
 
