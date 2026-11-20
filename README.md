@@ -1,8 +1,9 @@
-<img src="pdfectly_logo_mark.png" width="120" alt="PDFectly logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pdfectly_logo_horizontal_on_dark.png">
+  <img src="pdfectly_logo_horizontal.png" width="480" alt="PDFectly — DO PDFs. PERFECTLY.">
+</picture>
 
-# PDFectly
-
-**DO PDFs. PERFECTLY. — a fast, free PDF reader and editor for Windows.**
+**A fast, free PDF reader and editor for Windows.**
 
 Read, edit, organize, convert, merge, split and compress PDFs in one desktop app. No sign-up, no watermarks, no cloud — your files never leave your computer.
 
