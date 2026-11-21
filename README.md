@@ -164,6 +164,8 @@ Found a bug or want a feature? Use the **Feedback** button in the **Help** tab, 
 
 ## Version history
 
+- **v0.2.1** — (2026-11-20). PDF to Word now builds a real numbered list, a single Heading1 title and 12pt body; the Select tool drags objects to move them keeping their font and bold; Text Tool (T) merges Add and Edit Text; in-app Translate panel; Convert menu opens the real tools.
+- **v0.2.0** — (2026-11-20). Custom brush colour picker with a native Rust eyedropper, automatic splash version, and User Guide button.
 - **v0.1.0** — First public release (2026-11-20). PDF reader & editor, page tools, converters, and in-app updates.
 
 ---
@@ -186,6 +188,20 @@ Chethana Vishmika is the Founder and Developer of PDFectly. He is currently purs
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ChethanaVishmika)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chethana.vishmika)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chethana.vishmika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethana-vishmika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/chethana-vishmika)
 
+</div>
+
+---
+
+## License and credits
+
+PDFectly is free to use. © 2026 Chethana Vishmika. All rights reserved.
+
+Built with [Tauri](https://tauri.app/), [React](https://react.dev/), [pdf.js](https://mozilla.github.io/pdf.js/) and [pdf-lib](https://pdf-lib.js.org/) — thanks to the open-source projects that make it possible.
+
+<div align="center">
+  <img src="pdfectly_logo_mark.png" width="72" alt="PDFectly">
+
+  Made by **Chethana Vishmika** — with pride in Sri Lanka.
 </div>
