@@ -198,10 +198,10 @@ Chethana Vishmika is the Founder and Developer of PDFectly. He is currently purs
 
 PDFectly is free to use. © 2026 Chethana Vishmika. All rights reserved.
 
-Built with [Tauri](https://tauri.app/), [React](https://react.dev/), [pdf.js](https://mozilla.github.io/pdf.js/) and [pdf-lib](https://pdf-lib.js.org/) — thanks to the open-source projects that make it possible.
+Built with [Tauri](https://tauri.app/), [Rust](https://www.rust-lang.org/), [React](https://react.dev/), [pdf.js](https://mozilla.github.io/pdf.js/) and [pdf-lib](https://pdf-lib.js.org/) — thanks to the open-source projects that make it possible.
 
 <div align="center">
-  <img src="pdfectly_logo_mark.png" width="72" alt="PDFectly">
+  <img src="pdfectly_logo_mark.png" width="120" alt="PDFectly">
 
   Made by **Chethana Vishmika** — with pride in Sri Lanka.
 </div>
