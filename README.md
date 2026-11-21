@@ -165,3 +165,27 @@ Found a bug or want a feature? Use the **Feedback** button in the **Help** tab, 
 ## Version history
 
 - **v0.1.0** — First public release (2026-11-20). PDF reader & editor, page tools, converters, and in-app updates.
+
+---
+
+## Founder & Developer
+
+<div align="center">
+  <img src="chethana_vishmika.png" width="160" alt="Chethana Vishmika">
+
+  **Chethana Vishmika**
+
+  Founder & Developer of PDFectly
+</div>
+
+Chethana Vishmika is the Founder and Developer of PDFectly. He is currently pursuing a Bachelor of Information and Communication Technology (BICT) degree at Uva Wellassa University of Sri Lanka. With a strong foundation in IT, software development and digital education, Chethana builds free tools that make everyday work simpler — PDFectly is his free, no-sign-up PDF reader and editor for Windows, built to be more powerful than the paid alternatives while keeping your files private on your own computer.
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/ChethanaVishmika.me)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ChethanaVishmika)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chethana.vishmika)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chethana.vishmika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethana-vishmika)
+
+</div>
