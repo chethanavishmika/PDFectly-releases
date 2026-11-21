@@ -201,7 +201,10 @@ PDFectly is free to use. © 2026 Chethana Vishmika. All rights reserved.
 Built with [Tauri](https://tauri.app/), [Rust](https://www.rust-lang.org/), [React](https://react.dev/), [pdf.js](https://mozilla.github.io/pdf.js/) and [pdf-lib](https://pdf-lib.js.org/) — thanks to the open-source projects that make it possible.
 
 <div align="center">
-  <img src="pdfectly_logo_mark.png" width="120" alt="PDFectly">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="pdfectly_logo_stacked_on_dark.png">
+    <img src="pdfectly_logo_stacked.png" width="220" alt="PDFectly — DO PDFs. PERFECTLY.">
+  </picture>
 
   Made by **Chethana Vishmika** — with pride in Sri Lanka.
 </div>
