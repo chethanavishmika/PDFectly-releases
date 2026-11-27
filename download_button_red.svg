@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F05252"/>
+      <stop offset="1" stop-color="#B91C1C"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="359" height="63" rx="14" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="359" height="63" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.25"/>
+  <!-- Windows mark -->
+  <g transform="translate(22 18)" fill="#ffffff">
+    <rect x="0" y="0" width="13" height="13" rx="1.5"/>
+    <rect x="15" y="0" width="13" height="13" rx="1.5"/>
+    <rect x="0" y="15" width="13" height="13" rx="1.5"/>
+    <rect x="15" y="15" width="13" height="13" rx="1.5"/>
+  </g>
+  <text x="66" y="30" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Download for Windows</text>
+  <text x="66" y="49" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#ffffff" fill-opacity="0.9">Free · No sign-up · No watermarks</text>
+  <!-- download arrow -->
+  <g transform="translate(326 32)" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 -11 V5"/>
+    <path d="M-6 -1 L0 5 L6 -1"/>
+    <path d="M-8 11 H8"/>
+  </g>
+</svg>

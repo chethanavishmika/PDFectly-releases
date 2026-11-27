@@ -12,7 +12,9 @@ Read, edit, organize, convert, merge, split and compress PDFs in one desktop app
 ![Free](https://img.shields.io/badge/Free-no%20sign--up-16A34A?style=flat-square)
 ![No account](https://img.shields.io/badge/No%20account-no%20telemetry-16A34A?style=flat-square)
 
-**[⬇ Download PDFectly for Windows](https://github.com/chethanavishmika/PDFectly-releases/releases/latest)** · [All releases](https://github.com/chethanavishmika/PDFectly-releases/releases) · [Report a problem](https://github.com/chethanavishmika/PDFectly-releases/issues)
+<a href="https://github.com/chethanavishmika/PDFectly-releases/releases/latest"><img src="download_button_red.svg" width="360" alt="Download PDFectly for Windows"></a>
+
+[All releases](https://github.com/chethanavishmika/PDFectly-releases/releases) · [Report a problem](https://github.com/chethanavishmika/PDFectly-releases/issues)
 
 Highlights · Download & install · Quick start · Read · Edit · Organize pages · Tools · Shortcuts · Updates · Privacy
 
